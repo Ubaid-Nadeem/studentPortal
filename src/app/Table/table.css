@@ -1,0 +1,22 @@
+.user-table{
+    width: 100%;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+.user-table th{
+    background-color: #f5f5f5;
+    padding: 15px;
+}
+.user-table td{
+    border:  1px solid #f5f5f5;
+    padding: 15px;
+}
+.seedetails{
+    color: #2c2cd8 ;
+    cursor: pointer;
+}
+.deleteStudent{
+    color: rgb(221, 55, 55);
+    cursor: pointer;
+
+}
